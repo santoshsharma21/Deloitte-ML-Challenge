@@ -1,0 +1,4 @@
+*.csv
+screenshot.png
+bag_rf.ipynb
+dnn_entity_with_best_epoch.ipynb
